@@ -1,0 +1,158 @@
+body{
+  text-align: center;
+}
+
+h1{
+  padding: 1.5em 0 1.5em 0;
+}
+a{
+  color: #B9F3FC;
+  text-decoration: none;
+  margin: 10px;
+}
+thead, tbody ,th {
+  background-image: linear-gradient(#49b4df, #FFF);
+}
+
+th, tr, td {
+  border-radius: 10px;
+  height: 15px;
+} 
+
+.inputcontainer h1{
+  color: white;
+}
+
+.inputcontainer button{
+  margin: 20px 100px;
+}
+.inputcontainer{
+  padding-bottom: 70px;
+  width:100%;
+}
+form{
+  width:60%;
+  margin:auto;
+}
+
+label{
+  color:white;
+}
+.resultcontainer{
+  width: auto;
+  height: auto;
+  -ms-overflow-style: none;  
+  scrollbar-width: none; 
+}
+
+
+.resultcontainer h2{
+  margin: 70px auto;
+}
+
+
+.resultcontainer table{
+  min-width:70%;
+  min-height: 200px;
+  border-collapse: collapse;
+  background: #B9F3FC;
+  border-radius: 20px;
+  margin:0 auto 50px auto;
+  overflow: scroll;
+
+}
+-webkit-scrollbar{
+  /* Hide scrollbar for Chrome, Safari and Opera */
+  display: none;
+}
+
+
+.carousel-item {
+  transition-duration:0s ;
+  transition-delay: 0ms;
+}
+.Tutorialcontainer{
+
+  padding: 50px 0;;
+}
+.Tutorial{
+  max-height: 500px;
+}
+
+.button-container {
+  background-color: #B9F3FC;
+  padding:20px;
+}
+
+.button-container h2{
+  color: white;
+  font-size: 60px;
+}
+.button-container h3{
+  color: #579BB1;
+}
+
+.button-container h3:hover{
+  color: white;
+}
+
+.button-row img{
+  width: 14%;
+  min-width: 80px;
+  border-radius: 18px;
+  padding:8px;
+}
+.button-row img:hover{
+  width: 16%;
+  background-color: white;
+}
+.button-row{
+  margin: 100px auto;
+  width:70%;
+  text-align: left;
+}
+.DAimg{
+  float:left;
+  margin-right: 30px;
+}
+
+.INCimg{
+  float:right;
+  margin-left: 30px;
+}
+
+.FULLimg{
+  float:left;
+  margin-right: 30px;
+}
+
+.contact-me{
+  margin: 60px auto;
+}
+
+.contact-me h1{
+  color: #579bb1;
+  font-size: 60px;
+  padding: 0;
+  margin:0;
+}
+
+.contact-me h3{
+  margin:20px;
+}
+
+.contact-me p{
+  height:25px;
+  margin:30px auto 50px;
+}
+.bottom-container{
+  padding: 35px;
+}
+.bottom-container p{
+  color: white;
+  margin: 10px auto;
+}
+
+.bottom-container a:hover{
+  color: white;
+} 
